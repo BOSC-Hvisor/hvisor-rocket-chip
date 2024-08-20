@@ -6,5 +6,6 @@ build/
 out/
 target/
 project/target/
-
+.metals/
+zcu102/proj/.keep
 *.log
