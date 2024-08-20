@@ -1,18 +1,18 @@
 [submodule "rocket-chip"]
 	path = rocket-chip
-	url = https://github.com/U-interrupt/rocket-chip
+	url = https://github.com/BOSC-Hvisor/rocket-chip
 	branch = v1.6
 [submodule "spike"]
 	path = spike
-	url = https://github.com/U-interrupt/riscv-isa-sim
+	url = https://github.com/BOSC-Hvisor/riscv-isa-sim
 	branch = dev
 [submodule "tests"]
 	path = tests
-	url = https://github.com/U-interrupt/riscv-tests
+	url = https://github.com/BOSC-Hvisor/riscv-tests
 [submodule "pk"]
 	path = pk
-	url = https://github.com/U-interrupt/riscv-pk
+	url = https://github.com/BOSC-Hvisor/riscv-pk
 	branch = v1.0.0
 [submodule "digilent-vivado-scripts"]
 	path = digilent-vivado-scripts
-	url = https://github.com/Digilent/digilent-vivado-scripts
+	url = https://github.com/BOSC-Hvisor/digilent-vivado-scripts
