@@ -16,3 +16,4 @@
 [submodule "digilent-vivado-scripts"]
 	path = digilent-vivado-scripts
 	url = https://github.com/BOSC-Hvisor/digilent-vivado-scripts
+	branch = hvisor
