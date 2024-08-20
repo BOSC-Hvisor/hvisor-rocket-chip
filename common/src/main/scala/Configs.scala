@@ -20,6 +20,7 @@ class WithUIPI extends Config((_, _, _) => {
 })
 
 class UintrConfig extends Config(
+  new WithHypervisor ++
   new WithNBigCores(4) ++
     new WithNExtTopInterrupts(6) ++
     new WithTimebase((BigInt(10000000))) ++ // 10 MHz
